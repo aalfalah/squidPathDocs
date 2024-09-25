@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksquid_docs=self.webpackChunksquid_docs||[]).push([[6535],{2348:s=>{s.exports=JSON.parse('{"metadata":{"permalink":"/squidpathdocs/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
