@@ -1,0 +1,23 @@
+{
+  "id": "Topics/Startup Lifetime",
+  "title": "Startup Lifetime",
+  "description": "",
+  "source": "@site/docs/Topics/Startup Lifetime.md",
+  "sourceDirName": "Topics",
+  "slug": "/Topics/Startup Lifetime",
+  "permalink": "/squidPathDocs/docs/Topics/Startup Lifetime",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Product Analytics",
+    "permalink": "/squidPathDocs/docs/Topics/Product Analytics"
+  },
+  "next": {
+    "title": "Manage Docs Versions",
+    "permalink": "/squidPathDocs/docs/tutorial-extras/manage-docs-versions"
+  }
+}

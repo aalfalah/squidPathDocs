@@ -1,0 +1,23 @@
+{
+  "id": "Discrete Maths Course - UoL Goldsmiths/course-outline",
+  "title": "course-outline",
+  "description": "",
+  "source": "@site/docs/Discrete Maths Course - UoL Goldsmiths/course-outline.md",
+  "sourceDirName": "Discrete Maths Course - UoL Goldsmiths",
+  "slug": "/Discrete Maths Course - UoL Goldsmiths/course-outline",
+  "permalink": "/squidPathDocs/docs/Discrete Maths Course - UoL Goldsmiths/course-outline",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Template",
+    "permalink": "/squidPathDocs/docs/Building/Template"
+  },
+  "next": {
+    "title": "Create a Blog Post",
+    "permalink": "/squidPathDocs/docs/Partition similarity measures/create-a-blog-post"
+  }
+}

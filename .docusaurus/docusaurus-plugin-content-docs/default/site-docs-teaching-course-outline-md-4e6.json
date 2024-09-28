@@ -1,0 +1,23 @@
+{
+  "id": "Teaching/course-outline",
+  "title": "course-outline",
+  "description": "",
+  "source": "@site/docs/Teaching/course-outline.md",
+  "sourceDirName": "Teaching",
+  "slug": "/Teaching/course-outline",
+  "permalink": "/squidPathDocs/docs/Teaching/course-outline",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Template",
+    "permalink": "/squidPathDocs/docs/Teaching/Template"
+  },
+  "next": {
+    "title": "🔬 Research",
+    "permalink": "/squidPathDocs/docs/category/-research"
+  }
+}

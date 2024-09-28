@@ -1,0 +1,29 @@
+{
+  "id": "Building - Copy/Template",
+  "title": "FACT360 - Behavioural Analytics Platform",
+  "description": "A brief introduction to John from SE London, UK.",
+  "source": "@site/docs/Building - Copy/Template.md",
+  "sourceDirName": "Building - Copy",
+  "slug": "/Building - Copy/Template",
+  "permalink": "/squidPathDocs/docs/Building - Copy/Template",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "FACT360 - Behavioural Analytics Platform",
+    "description": "A brief introduction to John from SE London, UK.",
+    "sidebar_label": "FACT360 - Behavioural Analytics Platform",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🛠️ Building",
+    "permalink": "/squidPathDocs/docs/category/️-building-1"
+  },
+  "next": {
+    "title": "✍️Writing",
+    "permalink": "/squidPathDocs/docs/category/️writing"
+  }
+}

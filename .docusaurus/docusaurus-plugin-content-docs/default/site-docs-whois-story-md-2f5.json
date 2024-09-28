@@ -1,0 +1,26 @@
+{
+  "id": "Whois/Story",
+  "title": "Story",
+  "description": "Last updated: Jun 10, 2024",
+  "source": "@site/docs/Whois/Story.md",
+  "sourceDirName": "Whois",
+  "slug": "/Whois/Story",
+  "permalink": "/squidPathDocs/docs/Whois/Story",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Who Am I",
+    "permalink": "/squidPathDocs/docs/Whois/intro"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/squidPathDocs/docs/Whois/create-a-document"
+  }
+}

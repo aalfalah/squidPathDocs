@@ -1,0 +1,26 @@
+{
+  "id": "How we work/Story",
+  "title": "Story",
+  "description": "Last updated: Jun 10, 2024",
+  "source": "@site/docs/How we work/Story.md",
+  "sourceDirName": "How we work",
+  "slug": "/How we work/Story",
+  "permalink": "/squidPathDocs/docs/How we work/Story",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Culture",
+    "permalink": "/squidPathDocs/docs/How we work/culture"
+  },
+  "next": {
+    "title": "Create a Document",
+    "permalink": "/squidPathDocs/docs/How we work/create-a-document"
+  }
+}

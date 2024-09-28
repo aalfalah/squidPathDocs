@@ -1,0 +1,26 @@
+{
+  "id": "How we work/create-a-page",
+  "title": "Create a Page",
+  "description": "Add Markdown or React files to src/pages to create a standalone page:",
+  "source": "@site/docs/How we work/create-a-page.md",
+  "sourceDirName": "How we work",
+  "slug": "/How we work/create-a-page",
+  "permalink": "/squidPathDocs/docs/How we work/create-a-page",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create a Document",
+    "permalink": "/squidPathDocs/docs/How we work/create-a-document"
+  },
+  "next": {
+    "title": "Markdown Features",
+    "permalink": "/squidPathDocs/docs/How we work/markdown-features"
+  }
+}

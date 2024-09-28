@@ -1,0 +1,26 @@
+{
+  "id": "Template/translate-your-site",
+  "title": "Translate your site",
+  "description": "Let's translate docs/intro.md to French.",
+  "source": "@site/docs/Template/translate-your-site.md",
+  "sourceDirName": "Template",
+  "slug": "/Template/translate-your-site",
+  "permalink": "/squidPathDocs/docs/Template/translate-your-site",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Manage Docs Versions",
+    "permalink": "/squidPathDocs/docs/Template/manage-docs-versions"
+  },
+  "next": {
+    "title": "Who Am I",
+    "permalink": "/squidPathDocs/docs/intro"
+  }
+}

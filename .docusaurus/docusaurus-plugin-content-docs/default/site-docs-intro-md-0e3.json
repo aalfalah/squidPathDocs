@@ -1,0 +1,25 @@
+{
+  "id": "intro",
+  "title": "👋HI, NICE TO MEET YOU",
+  "description": "A brief introduction to Abdel",
+  "source": "@site/docs/intro.md",
+  "sourceDirName": ".",
+  "slug": "/intro",
+  "permalink": "/squidPathDocs/docs/intro",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "👋HI, NICE TO MEET YOU",
+    "description": "A brief introduction to Abdel",
+    "sidebar_label": "🙋Hello",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "🛠️ Building",
+    "permalink": "/squidPathDocs/docs/category/️-building"
+  }
+}

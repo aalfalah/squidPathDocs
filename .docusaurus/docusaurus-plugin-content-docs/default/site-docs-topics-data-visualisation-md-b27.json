@@ -1,0 +1,23 @@
+{
+  "id": "Topics/Data visualisation",
+  "title": "Data visualisation",
+  "description": "",
+  "source": "@site/docs/Topics/Data visualisation.md",
+  "sourceDirName": "Topics",
+  "slug": "/Topics/Data visualisation",
+  "permalink": "/squidPathDocs/docs/Topics/Data visualisation",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Clustering similarity measures",
+    "permalink": "/squidPathDocs/docs/Topics/Clustering similarity measures"
+  },
+  "next": {
+    "title": "Startup lifetime",
+    "permalink": "/squidPathDocs/docs/Topics/Startup lifetime"
+  }
+}

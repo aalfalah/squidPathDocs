@@ -1,0 +1,23 @@
+{
+  "id": "Research/Partitions similarity measures",
+  "title": "Partitions similarity measures",
+  "description": "",
+  "source": "@site/docs/Research/Partitions similarity measures.md",
+  "sourceDirName": "Research",
+  "slug": "/Research/Partitions similarity measures",
+  "permalink": "/squidPathDocs/docs/Research/Partitions similarity measures",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🔬 Research",
+    "permalink": "/squidPathDocs/docs/category/-research"
+  },
+  "next": {
+    "title": "💡Topics of interest",
+    "permalink": "/squidPathDocs/docs/category/topics-of-interest"
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "id": "Teaching/Template",
+  "title": "👋HI, NICE TO MEET YOU",
+  "description": "A brief introduction to John from SE London, UK.",
+  "source": "@site/docs/Teaching/Template.md",
+  "sourceDirName": "Teaching",
+  "slug": "/Teaching/Template",
+  "permalink": "/squidPathDocs/docs/Teaching/Template",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "👋HI, NICE TO MEET YOU",
+    "description": "A brief introduction to John from SE London, UK.",
+    "sidebar_label": "Template",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Discrete Maths Course - UoL",
+    "permalink": "/squidPathDocs/docs/Teaching/Discrete Maths Course - UoL Goldsmiths"
+  },
+  "next": {
+    "title": "🔬 Research",
+    "permalink": "/squidPathDocs/docs/category/-research"
+  }
+}

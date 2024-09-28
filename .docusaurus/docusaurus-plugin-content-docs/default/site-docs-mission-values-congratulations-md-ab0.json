@@ -1,0 +1,26 @@
+{
+  "id": "Mission & Values/congratulations",
+  "title": "Congratulations!",
+  "description": "You have just learned the basics of Docusaurus and made some changes to the initial template.",
+  "source": "@site/docs/Mission & Values/congratulations.md",
+  "sourceDirName": "Mission & Values",
+  "slug": "/Mission & Values/congratulations",
+  "permalink": "/squidPathDocs/docs/Mission & Values/congratulations",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Deploy your site",
+    "permalink": "/squidPathDocs/docs/Mission & Values/deploy-your-site"
+  },
+  "next": {
+    "title": "Research",
+    "permalink": "/squidPathDocs/docs/category/research"
+  }
+}

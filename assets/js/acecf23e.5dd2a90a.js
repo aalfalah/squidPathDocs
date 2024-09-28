@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksquid_docs=self.webpackChunksquid_docs||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/squidPathDocs/blog","blogTitle":"Blog","authorsListPath":"/squidPathDocs/blog/authors"}')}}]);

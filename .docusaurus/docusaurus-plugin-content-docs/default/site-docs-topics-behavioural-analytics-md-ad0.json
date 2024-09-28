@@ -1,0 +1,23 @@
+{
+  "id": "Topics/Behavioural analytics",
+  "title": "Behavioural analytics",
+  "description": "",
+  "source": "@site/docs/Topics/Behavioural analytics.md",
+  "sourceDirName": "Topics",
+  "slug": "/Topics/Behavioural analytics",
+  "permalink": "/squidPathDocs/docs/Topics/Behavioural analytics",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Product analytics",
+    "permalink": "/squidPathDocs/docs/Topics/Product analytics"
+  },
+  "next": {
+    "title": "Clustering similarity measures",
+    "permalink": "/squidPathDocs/docs/Topics/Clustering similarity measures"
+  }
+}

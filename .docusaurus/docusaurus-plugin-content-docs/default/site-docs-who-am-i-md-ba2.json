@@ -1,0 +1,29 @@
+{
+  "id": "Who-am-i",
+  "title": "👋HI, NICE TO MEET YOU",
+  "description": "A brief introduction to John from SE London, UK.",
+  "source": "@site/docs/Who-am-i.md",
+  "sourceDirName": ".",
+  "slug": "/Who-am-i",
+  "permalink": "/squidPathDocs/docs/Who-am-i",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "👋HI, NICE TO MEET YOU",
+    "description": "A brief introduction to John from SE London, UK.",
+    "sidebar_label": "Who Am I",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Template",
+    "permalink": "/squidPathDocs/docs/Template"
+  },
+  "next": {
+    "title": "Mission & Values",
+    "permalink": "/squidPathDocs/docs/category/mission--values"
+  }
+}

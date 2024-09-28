@@ -1,0 +1,29 @@
+{
+  "id": "Writing/Template",
+  "title": "Product Numbers Newsletter",
+  "description": "A brief introduction to John from SE London, UK.",
+  "source": "@site/docs/Writing/Template.md",
+  "sourceDirName": "Writing",
+  "slug": "/Writing/Template",
+  "permalink": "/squidPathDocs/docs/Writing/Template",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "Product Numbers Newsletter",
+    "description": "A brief introduction to John from SE London, UK.",
+    "sidebar_label": "Product Numbers Newsletter",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "✍️Writing",
+    "permalink": "/squidPathDocs/docs/category/️writing"
+  },
+  "next": {
+    "title": "👨‍🏫Teaching",
+    "permalink": "/squidPathDocs/docs/category/teaching"
+  }
+}

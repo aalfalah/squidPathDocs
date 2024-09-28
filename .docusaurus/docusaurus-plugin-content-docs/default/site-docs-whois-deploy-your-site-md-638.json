@@ -1,0 +1,29 @@
+{
+  "id": "Whois/deploy-your-site",
+  "title": "👋HI, NICE TO MEET YOU",
+  "description": "A brief introduction to Abdel",
+  "source": "@site/docs/Whois/deploy-your-site.md",
+  "sourceDirName": "Whois",
+  "slug": "/Whois/deploy-your-site",
+  "permalink": "/squidPathDocs/docs/Whois/deploy-your-site",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "👋HI, NICE TO MEET YOU",
+    "description": "A brief introduction to Abdel",
+    "sidebar_label": "Who Am I",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Startup lifetime",
+    "permalink": "/squidPathDocs/docs/Topics/Startup lifetime"
+  },
+  "next": {
+    "title": "Manage Docs Versions",
+    "permalink": "/squidPathDocs/docs/tutorial-extras/manage-docs-versions"
+  }
+}

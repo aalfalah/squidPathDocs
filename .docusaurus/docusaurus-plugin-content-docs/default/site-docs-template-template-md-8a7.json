@@ -1,0 +1,25 @@
+{
+  "id": "Template/Template",
+  "title": "👋HI, NICE TO MEET YOU",
+  "description": "A brief introduction to John from SE London, UK.",
+  "source": "@site/docs/Template/Template.md",
+  "sourceDirName": "Template",
+  "slug": "/Template/",
+  "permalink": "/squidPathDocs/docs/Template/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "👋HI, NICE TO MEET YOU",
+    "description": "A brief introduction to John from SE London, UK.",
+    "sidebar_label": "Template",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "Who Am I",
+    "permalink": "/squidPathDocs/docs/intro"
+  }
+}

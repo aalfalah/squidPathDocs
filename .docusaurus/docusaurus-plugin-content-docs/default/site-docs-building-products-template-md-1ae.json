@@ -1,0 +1,29 @@
+{
+  "id": "Building Products/Template",
+  "title": "👋HI, NICE TO MEET YOU",
+  "description": "A brief introduction to John from SE London, UK.",
+  "source": "@site/docs/Building Products/Template.md",
+  "sourceDirName": "Building Products",
+  "slug": "/Building Products/Template",
+  "permalink": "/squidPathDocs/docs/Building Products/Template",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "title": "👋HI, NICE TO MEET YOU",
+    "description": "A brief introduction to John from SE London, UK.",
+    "sidebar_label": "Template",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Building",
+    "permalink": "/squidPathDocs/docs/category/building"
+  },
+  "next": {
+    "title": "Building",
+    "permalink": "/squidPathDocs/docs/category/building-1"
+  }
+}

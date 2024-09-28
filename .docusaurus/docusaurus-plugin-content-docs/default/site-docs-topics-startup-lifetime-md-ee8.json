@@ -1,0 +1,19 @@
+{
+  "id": "Topics/Startup lifetime",
+  "title": "Startup lifetime",
+  "description": "",
+  "source": "@site/docs/Topics/Startup lifetime.md",
+  "sourceDirName": "Topics",
+  "slug": "/Topics/Startup lifetime",
+  "permalink": "/squidPathDocs/docs/Topics/Startup lifetime",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data visualisation",
+    "permalink": "/squidPathDocs/docs/Topics/Data visualisation"
+  }
+}

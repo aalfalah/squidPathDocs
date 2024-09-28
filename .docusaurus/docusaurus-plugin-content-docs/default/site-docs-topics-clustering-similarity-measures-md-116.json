@@ -1,0 +1,23 @@
+{
+  "id": "Topics/Clustering similarity measures",
+  "title": "Clustering similarity measures",
+  "description": "",
+  "source": "@site/docs/Topics/Clustering similarity measures.md",
+  "sourceDirName": "Topics",
+  "slug": "/Topics/Clustering similarity measures",
+  "permalink": "/squidPathDocs/docs/Topics/Clustering similarity measures",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Behavioural analytics",
+    "permalink": "/squidPathDocs/docs/Topics/Behavioural analytics"
+  },
+  "next": {
+    "title": "Data visualisation",
+    "permalink": "/squidPathDocs/docs/Topics/Data visualisation"
+  }
+}

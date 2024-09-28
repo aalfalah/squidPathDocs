@@ -1,0 +1,106 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/squidPathDocs/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/squidPathDocs/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "Building/FACT360",
+              "path": "/squidPathDocs/docs/Building/FACT360",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/squidPathDocs/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Research/Partitions similarity measures",
+              "path": "/squidPathDocs/docs/Research/Partitions similarity measures",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Teaching/Discrete Maths Course - UoL Goldsmiths",
+              "path": "/squidPathDocs/docs/Teaching/Discrete Maths Course - UoL Goldsmiths",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Topics/Behavioural analytics",
+              "path": "/squidPathDocs/docs/Topics/Behavioural analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Topics/Clustering similarity measures",
+              "path": "/squidPathDocs/docs/Topics/Clustering similarity measures",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Topics/Data visualisation",
+              "path": "/squidPathDocs/docs/Topics/Data visualisation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Topics/Product analytics",
+              "path": "/squidPathDocs/docs/Topics/Product analytics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Topics/Startup lifetime",
+              "path": "/squidPathDocs/docs/Topics/Startup lifetime",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Writing/Product Numbers Newsletter",
+              "path": "/squidPathDocs/docs/Writing/Product Numbers Newsletter",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/️-building",
+              "path": "/squidPathDocs/docs/category/️-building",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/️writing",
+              "path": "/squidPathDocs/docs/category/️writing",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/teaching",
+              "path": "/squidPathDocs/docs/category/teaching",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/-research",
+              "path": "/squidPathDocs/docs/category/-research",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/topics-of-interest",
+              "path": "/squidPathDocs/docs/category/topics-of-interest",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [
+            "tutorial-extras/manage-docs-versions",
+            "tutorial-extras/translate-your-site"
+          ],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/squidPathDocs/docs/intro",
+                "label": "🙋Hello"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

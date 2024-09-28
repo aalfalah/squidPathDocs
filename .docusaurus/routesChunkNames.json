@@ -1,0 +1,289 @@
+{
+  "/squidPathDocs/blog-9fb": {
+    "__comp": "a6aa9e1f",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "dc0c7d4b"
+  },
+  "/squidPathDocs/blog/archive-341": {
+    "__comp": "9e4087bc",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "__props": "b76f46cf"
+  },
+  "/squidPathDocs/blog/authors-e17": {
+    "__comp": "621db11d",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "c7aa33de"
+  },
+  "/squidPathDocs/blog/authors/all-sebastien-lorber-articles-e88": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "c3d05288"
+  },
+  "/squidPathDocs/blog/authors/yangshun-d03": {
+    "__comp": "33fc5bb8",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "sidebar": "814f3328",
+    "__props": "3f143490"
+  },
+  "/squidPathDocs/blog/first-blog-post-2b9": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "e273c56f"
+  },
+  "/squidPathDocs/blog/long-blog-post-aed": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "73664a40"
+  },
+  "/squidPathDocs/blog/mdx-blog-post-39d": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "59362658"
+  },
+  "/squidPathDocs/blog/tags-1bf": {
+    "__comp": "01a85c17",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "__props": "dd2022ee"
+  },
+  "/squidPathDocs/blog/tags/docusaurus-aa6": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "f4f34a3a"
+      },
+      {
+        "content": "8717b14a"
+      },
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "a01bcede"
+  },
+  "/squidPathDocs/blog/tags/facebook-78c": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      }
+    ],
+    "__props": "4b77f071"
+  },
+  "/squidPathDocs/blog/tags/hello-7bf": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "7661071f"
+      },
+      {
+        "content": "8717b14a"
+      }
+    ],
+    "__props": "c861050c"
+  },
+  "/squidPathDocs/blog/tags/hola-936": {
+    "__comp": "6875c492",
+    "__context": {
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "items": [
+      {
+        "content": "925b3f96"
+      }
+    ],
+    "__props": "f9632c4f"
+  },
+  "/squidPathDocs/blog/welcome-c3e": {
+    "__comp": "ccc49370",
+    "__context": {
+      "data": {
+        "blogMetadata": "acecf23e"
+      },
+      "plugin": "36994c47"
+    },
+    "sidebar": "814f3328",
+    "content": "d9f32620"
+  },
+  "/squidPathDocs/markdown-page-01b": {
+    "__comp": "1f391b9e",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "content": "393be207"
+  },
+  "/squidPathDocs/docs-797": {
+    "__comp": "5e95c892",
+    "__context": {
+      "plugin": "aba21aa0"
+    }
+  },
+  "/squidPathDocs/docs-7c2": {
+    "__comp": "a7bd4aaa",
+    "__props": "c0843e59"
+  },
+  "/squidPathDocs/docs-078": {
+    "__comp": "a94703ab"
+  },
+  "/squidPathDocs/docs/Building/FACT360-0c7": {
+    "__comp": "17896441",
+    "content": "b4179d67"
+  },
+  "/squidPathDocs/docs/category/️-building-973": {
+    "__comp": "14eb3368",
+    "__props": "35096572"
+  },
+  "/squidPathDocs/docs/category/-research-870": {
+    "__comp": "14eb3368",
+    "__props": "83ac1bb6"
+  },
+  "/squidPathDocs/docs/category/teaching-977": {
+    "__comp": "14eb3368",
+    "__props": "8aa8c20d"
+  },
+  "/squidPathDocs/docs/category/topics-of-interest-cd7": {
+    "__comp": "14eb3368",
+    "__props": "b4cffb75"
+  },
+  "/squidPathDocs/docs/category/️writing-289": {
+    "__comp": "14eb3368",
+    "__props": "f0e597ba"
+  },
+  "/squidPathDocs/docs/intro-ab3": {
+    "__comp": "17896441",
+    "content": "0e384e19"
+  },
+  "/squidPathDocs/docs/Research/Partitions similarity measures-ee6": {
+    "__comp": "17896441",
+    "content": "273a767a"
+  },
+  "/squidPathDocs/docs/Teaching/Discrete Maths Course - UoL Goldsmiths-4f3": {
+    "__comp": "17896441",
+    "content": "cc47f9ee"
+  },
+  "/squidPathDocs/docs/Topics/Behavioural analytics-dd1": {
+    "__comp": "17896441",
+    "content": "ad01126a"
+  },
+  "/squidPathDocs/docs/Topics/Clustering similarity measures-83e": {
+    "__comp": "17896441",
+    "content": "1161b548"
+  },
+  "/squidPathDocs/docs/Topics/Data visualisation-775": {
+    "__comp": "17896441",
+    "content": "b277612a"
+  },
+  "/squidPathDocs/docs/Topics/Product analytics-6d4": {
+    "__comp": "17896441",
+    "content": "572f9f45"
+  },
+  "/squidPathDocs/docs/Topics/Startup lifetime-c0a": {
+    "__comp": "17896441",
+    "content": "ee8167ac"
+  },
+  "/squidPathDocs/docs/Writing/Product Numbers Newsletter-e3e": {
+    "__comp": "17896441",
+    "content": "b9a74c45"
+  },
+  "/squidPathDocs/-12c": {
+    "__comp": "c4f5d8e4",
+    "__context": {
+      "plugin": "a7456010"
+    },
+    "config": "5e9f5e1a"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "How we work/deploy-your-site",
+  "title": "Deploy your site",
+  "description": "Docusaurus is a static-site-generator (also called Jamstack).",
+  "source": "@site/docs/How we work/deploy-your-site.md",
+  "sourceDirName": "How we work",
+  "slug": "/How we work/deploy-your-site",
+  "permalink": "/squidPathDocs/docs/How we work/deploy-your-site",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Markdown Features",
+    "permalink": "/squidPathDocs/docs/How we work/markdown-features"
+  },
+  "next": {
+    "title": "Congratulations!",
+    "permalink": "/squidPathDocs/docs/How we work/congratulations"
+  }
+}
