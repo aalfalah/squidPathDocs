@@ -4,33 +4,30 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Streamline Documentation for Growth',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
+    We help startups turn technical documentation into a strategic growth tool. By structuring and optimizing your content, we create easy-to-navigate, SEO-optimized docs that educate users and drive product adoption.
+    </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Build Engaging Communities',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
-      </>
+    Empower your users to become your biggest advocates. Our service builds community platforms where users can engage, share, and help each other, turning your product’s documentation into a thriving ecosystem.
+    </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Turn Documentation into a Lead-Generation Tool',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
-      </>
+    Go beyond education. With strategic content placement and calls-to-action embedded in your technical docs, we help you convert your audience into leads, building a pipeline for business growth through informative, engaging content.
+    </>
     ),
   },
 ];
